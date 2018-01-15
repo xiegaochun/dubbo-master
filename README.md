@@ -4,3 +4,6 @@
 ![](https://img.shields.io/maven-central/v/com.alibaba/dubbo.svg)
 
 Pls. visit [dubbo.io](http://dubbo.io) for more information.
+
+
+备份学习使用，如需下载，请下载最新版本
